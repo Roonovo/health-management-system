@@ -1,0 +1,22 @@
+// 全局SCSS变量
+$primary-color: #409EFF;
+$success-color: #67C23A;
+$warning-color: #E6A23C;
+$danger-color: #F56C6C;
+$info-color: #909399;
+$text-primary: #303133;
+$text-regular: #606266;
+$text-secondary: #909399;
+$border-color: #DCDFE6;
+$background-color: #F5F7FA;
+
+// 布局变量
+$header-height: 60px;
+$sidebar-width: 200px;
+$sidebar-collapse-width: 64px;
+
+// 响应式断点
+$breakpoint-sm: 768px;
+$breakpoint-md: 992px;
+$breakpoint-lg: 1200px;
+$breakpoint-xl: 1920px;
